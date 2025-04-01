@@ -14,12 +14,12 @@
   6. Training method
 
 ## 設計的考量及策略
-- 必須是  lightweight ；效能必須  快又準 
-- 必須適用於：
+- lightweight  快又準 
+- 用於：
   -  Cloud  (如：伺服器)
   -  Local  (如：Notebook)
   -  Edge  (如：手機)
-- 先調查現存的  State-of-the-art  物件偵測系統
+- 調查現存的  State-of-the-art  物件偵測系統
 
 ## Variation of Partial Residual Network
 -  目標： 
@@ -28,7 +28,7 @@
   - 增加梯度組合
 
 ## Stage-level
-- 一個完整的 stage 是從 backbone 組織不同層的資訊進行 feature organization，以處理特定任務，例如：
+- 一個完整的 stage 是從 backbone 組織不同層的資訊進行 feature organization，處理某個任務，例如：
   - Small object detection
   - Large object detection
 - 在一個 stage 中的 gradient flow 是具有語意的。
