@@ -1,3 +1,8 @@
+# 11363127 林士傑 2025/4/1
+## Yolov4、Yolov7及Yolov9的發展過程
+**廖弘源 博士**
+
+
 # 物件偵測系統
 
 ## Some issues need to be considered:
@@ -55,4 +60,3 @@
   -  優化重點： 
     - YOLOv4 to YOLOv7：優化梯度路徑
     - YOLOv9：同時優化 forward path 與 gradient path
-q
