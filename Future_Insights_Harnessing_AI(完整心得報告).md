@@ -2,6 +2,18 @@
 ## Future Insights: Harnessing AI and Social Media for Advanced Event and Epidemic Forecasting(完整心得報告)
 **呂昌田 博士**
 
+## 目錄
+1. 摘要
+2. 監督式與非監督式方法
+3. 一對多與一對一模型
+4. 多任務學習與特徵互動
+5. 模型融合與挑戰
+6. 案例研究
+7. 結論
+8. 參考文獻
+
+
+
 ## 摘要
 
 - **社群媒體與AI事件預測**  
@@ -85,3 +97,8 @@
 ## 結論
 
 本次講座展示了結合社群媒體資料與AI技術，如何有效進行時空事件與疫情預測。透過監督式與非監督式、多任務學習及模型融合，能克服資料稀疏與異質性，提升預測的準確性與即時性。
+
+## 參考文獻
+L. Zhao*, F. Chen*, C.T. Lu, R. Ramakrishnan, "Dynamic Theme Tracking in Twitter" Proceedings of the IEEE International Conference on Big Data (IEEE BigData), pp. 561-570, 2015.
+
+L. Zhao*, J. Chen, F. Chen, W. Wang, C.T. Lu, R. Ramakrishnan, "SimNest: Social Media Nested Epidemic Simulation via Online Semi-supervised Deep Learning" Proceedings of the IEEE International Conference on Data Mining (IEEE ICDM), 2015, Atlantic City, NJ. (DQE + Simulation)
